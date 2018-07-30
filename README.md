@@ -1,2 +1,5 @@
 # Automation_API
-# This is a repository for API testing
+
+### What is this repository for? ###
+
+* This repo hosts API automation tests for our pair buddy program.
